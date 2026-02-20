@@ -20,6 +20,6 @@
       "category": "Categoria 1",
       "value_k": 100,
       "recipe": { "molas": 2, "canos": 1, "gatilhos": 1, "pratas": 3, "bronzes": 0 }
-    },
+    }
   ]
 }
