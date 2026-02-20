@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "produto_a",
+      "name": "Produto A",
+      "category": "Categoria 1",
+      "value_k": 100,
+      "recipe": { "molas": 2, "canos": 1, "gatilhos": 1, "pratas": 3, "bronzes": 0 }
+    },
+    {
+      "id": "produto_b",
+      "name": "Produto B",
+      "category": "Categoria 2",
+      "value_k": 250,
+      "recipe": { "molas": 4, "canos": 2, "gatilhos": 1, "pratas": 0, "bronzes": 5 }
+    }
+  ]
+}
